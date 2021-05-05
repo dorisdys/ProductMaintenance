@@ -1,0 +1,12 @@
+C:\Users\dongd\source\repos\ProductMaintenance\MMAProductData\bin\Debug\netcoreapp3.1\MMAProductData.deps.json
+C:\Users\dongd\source\repos\ProductMaintenance\MMAProductData\bin\Debug\netcoreapp3.1\MMAProductData.runtimeconfig.json
+C:\Users\dongd\source\repos\ProductMaintenance\MMAProductData\bin\Debug\netcoreapp3.1\MMAProductData.runtimeconfig.dev.json
+C:\Users\dongd\source\repos\ProductMaintenance\MMAProductData\bin\Debug\netcoreapp3.1\MMAProductData.dll
+C:\Users\dongd\source\repos\ProductMaintenance\MMAProductData\bin\Debug\netcoreapp3.1\MMAProductData.pdb
+C:\Users\dongd\source\repos\ProductMaintenance\MMAProductData\obj\Debug\netcoreapp3.1\MMAProductData.csprojAssemblyReference.cache
+C:\Users\dongd\source\repos\ProductMaintenance\MMAProductData\obj\Debug\netcoreapp3.1\MMAProductData.AssemblyInfoInputs.cache
+C:\Users\dongd\source\repos\ProductMaintenance\MMAProductData\obj\Debug\netcoreapp3.1\MMAProductData.AssemblyInfo.cs
+C:\Users\dongd\source\repos\ProductMaintenance\MMAProductData\obj\Debug\netcoreapp3.1\MMAProductData.csproj.CoreCompileInputs.cache
+C:\Users\dongd\source\repos\ProductMaintenance\MMAProductData\obj\Debug\netcoreapp3.1\MMAProductData.dll
+C:\Users\dongd\source\repos\ProductMaintenance\MMAProductData\obj\Debug\netcoreapp3.1\MMAProductData.pdb
+C:\Users\dongd\source\repos\ProductMaintenance\MMAProductData\obj\Debug\netcoreapp3.1\MMAProductData.genruntimeconfig.cache
